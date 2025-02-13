@@ -45,7 +45,10 @@ h1 {
   z-index: 2;
 }
 
-.jar-walls {
+.jar {
+}
+
+#jar-walls {
   height: 80%;
   width: 60%;
   background: #d1e1df;
@@ -57,7 +60,7 @@ h1 {
   z-index: 1;
 }
 
-.jar-top {
+#jar-top {
   width: 50%;
   height: 5%;
   background: #d1e1df;
@@ -68,7 +71,7 @@ h1 {
   z-index: 1;
 }
 
-.jar-bottom {
+#jar-bottom {
   width: 50%;
   height: 1%;
   background: #d1e1df;
